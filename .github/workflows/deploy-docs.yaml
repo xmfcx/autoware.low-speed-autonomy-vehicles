@@ -5,14 +5,14 @@ on:
     branches:
       - main
     paths:
-      - mkdocs.yaml
+      - mkdocs.yml
       - "**/*.md"
       - "**/*.svg"
       - "**/*.png"
       - "**/*.jpg"
   pull_request:
     paths:
-      - mkdocs.yaml
+      - mkdocs.yml
       - "**/*.md"
       - "**/*.svg"
       - "**/*.png"
